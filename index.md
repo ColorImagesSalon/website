@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Color Images Salon 
 
 You can use the [editor on GitHub](https://github.com/ColorImagesSalon/website/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
